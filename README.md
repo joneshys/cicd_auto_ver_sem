@@ -1,4 +1,4 @@
-# 📦 Guía de CI/CD Automático y versionado semántico
+# 📦 Sentinel Deploy: Guía de CI/CD Automático y versionado semántico
 
 ![GitLab pipeline](https://img.shields.io/badge/pipeline-gitlab-blue?logo=gitlab)
 ![Semantic Versioning](https://img.shields.io/badge/semver-2.0.0-green)
